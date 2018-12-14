@@ -1,7 +1,7 @@
 site_name: OpenText API Documentation
 
 nav:
-- Introduction: index.md
-
+- Start: index.md
+- Service Gateway: servicegateway.md
 theme: readthedocs
 repo_url: https://github.com/robinnydahl/OpenTextAPIDocumentation/

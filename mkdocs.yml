@@ -4,3 +4,4 @@ nav:
 - Introduction: index.md
 
 theme: readthedocs
+repo_url: https://github.com/robinnydahl/OpenTextAPIDocumentation/

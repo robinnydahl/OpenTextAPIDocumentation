@@ -1,0 +1,6 @@
+site_name: OpenText API Documentation
+
+nav:
+- Introduction: index.md
+
+theme: readthedocs
